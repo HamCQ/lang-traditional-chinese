@@ -373,10 +373,10 @@ core:
             restore_button: 還原
             toggle_dropdown_accessible_label: 帖子下拉選單開關
         post_scrubber:
-            now_link: 末貼
-            original_post_link: 首貼
+            now_link: 最後回覆
+            original_post_link: 最早文章
             unread_text: '{count} 未讀'
-            viewing_text: '{index} / {count}|{index} / {count}'
+            viewing_text: '{index} / {count} 則'
         post_stream:
             discussion_renamed_old_tooltip: '舊標題是: 「{old}」'
             discussion_renamed_text: '{username} 將標題更改為 「{new}」。'
