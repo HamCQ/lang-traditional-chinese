@@ -1,0 +1,22 @@
+fof-oauth:
+    forum:
+        error:
+            bad_verification_code: 無效或過期的驗證令牌，請重試。
+            invalid_state: 無效狀態，請重試。
+        log_in:
+            with_button: '{provider} 帳號登錄'
+    lib:
+        providers:
+            discord: Discord
+            facebook: Facebook
+            github: GitHub
+            gitlab: GitLab
+            google: Google
+            linkedin: LinkedIn
+            twitter: Twitter
+    ref:
+        settings:
+            app_id: 'App ID'
+            app_secret: 'App Secret'
+            client_id: 'Client ID'
+            client_secret: 'Client Secret'

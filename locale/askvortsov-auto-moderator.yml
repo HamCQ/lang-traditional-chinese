@@ -1,0 +1,7 @@
+askvortsov-auto-moderator:
+    lib:
+        group_id: '用戶組 ID'
+        managed_groups:
+            group_item: '<badge></badge> {groupName}'
+            groups_not_editable: 為防止數據不一致，由自動審閱擴展管理的用戶組，不允許手動移入/移出用戶。
+            header: 託管用戶組：

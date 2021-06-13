@@ -1,0 +1,3 @@
+flarum-ext-pwgen:
+    forum:
+        generatebtn: 生成安全密碼

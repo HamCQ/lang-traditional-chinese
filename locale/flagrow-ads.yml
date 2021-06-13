@@ -1,22 +1,24 @@
-# https://github.com/flagrow/ads/blob/master/locale/en.yml
-# Sat, 08 Dec 2018 16:54:32 +0800
-
 flagrow-ads:
     admin:
         buttons:
-            save: 儲存設定
+            save: 保存
         positions:
-            under-header:
-                title: 頂部導航標題下的廣告位
-                placeholder: 於此處填入廣告程式碼
             between-posts:
-                title: 貼文間的廣告位
-                placeholder: => flagrow-ads.admin.positions.under-header.placeholder
+                placeholder: 在此處插入您的廣告代碼。
+                title: 帖子之間的廣告位置
+            under-header:
+                placeholder: 在此處插入您的廣告代碼。
+                title: 頁眉標題下的廣告位置
             under-nav-items:
-                title: 首頁左側節點列表下的廣告位
-                placeholder: => flagrow-ads.admin.positions.under-header.placeholder
+                placeholder: 在此處插入您的廣告代碼。
+                title: 在首頁標籤下左欄中的廣告位置
         settings:
-            start-from-post: 指定從第幾個貼文開始顯示廣告
-            between-n-posts: 指定放置廣告的貼文數
+            adsense-client-id: '提供您的publisher ID'
+            adsense-enable: '已啟用 AdSense'
+            adsense-title: 'AdSense 設置'
+            between-n-posts: 在放置廣告的帖子數之後指定
+            position-title: 廣告位置
+            start-from-post: 指定從哪個帖子開始展示廣告
         tab:
-            description: 廣告位置及偏好設定
+            description: 指定從哪個帖子開始展示廣告
+            title: 廣告

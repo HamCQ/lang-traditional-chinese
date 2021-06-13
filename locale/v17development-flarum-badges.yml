@@ -1,0 +1,26 @@
+v17development-flarum-badges:
+    forum:
+        all_badges: 查看所有徽章
+        all_users: 查看所有用戶
+        badge_information: 徽章詳情
+        badge:
+            badge: 徽章
+            badges: 徽章
+            category: 徽章分組
+            description: 徽章描述
+            earned_count: '<b>{count} 用戶</b> 已獲得此徽章|<b>{count} 用戶</b> 已獲得此徽章'
+            earned_on: 徽章授予於
+            earning_reason: 徽章授予理由
+            name: 徽章名
+            no_earning_reason: 無授予理由
+            update_earning_reason: 更新授予理由
+        give_badge: 授予徽章
+        moderation:
+            give_badge: 授予徽章
+            remove_badge: 移除徽章
+            remove_badge_confirm: 確定要移除該用戶的這個徽章嗎？
+        select_badge: 選擇徽章
+        uncategorized: 未命名分組
+        update_badge: 更新徽章
+        user_has_badge: 該用戶已擁有此徽章。
+        user_no_badges: 該用戶尚未擁有徽章。

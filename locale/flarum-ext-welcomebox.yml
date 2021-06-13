@@ -1,0 +1,9 @@
+flarum-ext-welcomebox:
+    forum:
+        discussion: 主題
+        goToProfile: 個資
+        notregistered: 您尚未註冊。
+        npost: 回覆
+        SettingsLink: 設置
+        wback: 歡迎回來
+        welcomeguest: 您好，新訪客

@@ -1,0 +1,11 @@
+malago-achievements:
+    forum:
+        achievement_points: 積分
+        achievement_total_points: 總計
+        hidden_achievements: 隱藏成就
+        list_heading: 成就
+        new_achievement_close: 達成！
+        new_achievement_name: 成就
+        new_achievement_title: 新成就！
+        other_achievements: 其他成就
+        your_achievements: 你的成就
