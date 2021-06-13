@@ -66,3 +66,8 @@
 
 body { font-family: -apple-system, BlinkMacSystemFont, 'System Latin', 'System Emoji', 'System TC', sans-serif; }
 code, pre { font-family: 'System Mono', Monospace; }
+
+.ExtensionPage.fof-linguist-Page .item-linguist-tabs {
+  order: unset;
+  flex: 1 0 0;
+}
