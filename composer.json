@@ -1,6 +1,6 @@
 {
   "name": "pattinsonfuture/lang-traditional-chinese",
-  "description": "Flarum 正體中文語言包",
+  "description": "Flarum 繁体中文語言包",
   "keywords": [
     "flarum",
     "locale",
@@ -25,17 +25,11 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "正體中文語言包",
-        "icon": {
-          "image": "icon.svg",
-          "backgroundColor": "#fff",
-          "backgroundSize": "cover",
-          "backgroundPosition": "center"
-        }
+      "title": "繁体中文語言包"
     },
     "flarum-locale": {
       "code": "zh-hant",
-      "title": "正體中文"
+      "title": "繁体中文"
     }
   }
 }
