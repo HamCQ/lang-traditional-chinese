@@ -1,5 +1,5 @@
 {
-  "name": "pattinsonfuture/lang-traditional-chinese",
+  "name": "hamzone/lang-traditional-chinese",
   "description": "Flarum 繁体中文語言包",
   "keywords": [
     "flarum",
@@ -11,15 +11,11 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "pattinsonfuture",
-      "email": "pattinsonfuture@gmail.com",
-      "homepage": "https://game.yolk.club/"
+      "name": "hamzone",
+      "email": "contact@hamzone.cn",
+      "homepage": "https://bbs.hamzone.cn"
     }
   ],
-  "support": {
-    "source": "https://github.com/pattinsonfuture/lang-traditional-chinese",
-    "issues": "https://github.com/pattinsonfuture/lang-traditional-chinese"
-  },
   "require": {
     "flarum/core": "^1.0"
   },
