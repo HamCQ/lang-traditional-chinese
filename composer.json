@@ -1,5 +1,5 @@
 {
-  "name": "hamzone/lang-traditional-chinese",
+  "name": "hamcq/lang-traditional-chinese",
   "description": "Flarum 繁体中文語言包",
   "keywords": [
     "flarum",
@@ -11,9 +11,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "hamzone",
-      "email": "contact@hamzone.cn",
-      "homepage": "https://bbs.hamzone.cn"
+      "name": "Emin.lin",
+      "email": "emin.lin@live.com"
     }
   ],
   "require": {
